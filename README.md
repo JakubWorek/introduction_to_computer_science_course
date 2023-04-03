@@ -1,2 +1,2 @@
-# WDI-2022-2023
-A repository with programs written on WDI on AGH UST
+# Introduction to computer science
+A repository with programs written on WDI on AGH UST in 2022
