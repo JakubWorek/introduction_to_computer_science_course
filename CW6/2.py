@@ -19,7 +19,7 @@ def waga(num):
 
 
 def podzielT(T,n,i,s1,s2,s3):
-    if(i == n-1):
+    if(i == n):
         if(s1==s2 and s2==s3 and s3==s1):
             return True
         else: return False
